@@ -1,0 +1,14 @@
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.deps.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.runtimeconfig.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.runtimeconfig.dev.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.dll
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.csprojAssemblyReference.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorAssemblyInfo.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorAssemblyInfo.cs
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.AssemblyInfoInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.AssemblyInfo.cs
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorTargetAssemblyInfo.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.pdb
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.dll
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.pdb

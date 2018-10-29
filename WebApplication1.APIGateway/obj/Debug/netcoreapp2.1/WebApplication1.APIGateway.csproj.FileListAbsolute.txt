@@ -1,0 +1,11 @@
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\bin\Debug\netcoreapp2.1\WebApplication1.APIGateway.deps.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\bin\Debug\netcoreapp2.1\WebApplication1.APIGateway.runtimeconfig.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\bin\Debug\netcoreapp2.1\WebApplication1.APIGateway.runtimeconfig.dev.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\bin\Debug\netcoreapp2.1\WebApplication1.APIGateway.dll
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.csprojAssemblyReference.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.RazorAssemblyInfo.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.RazorAssemblyInfo.cs
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.AssemblyInfoInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.AssemblyInfo.cs
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication1.APIGateway\obj\Debug\netcoreapp2.1\WebApplication1.APIGateway.RazorTargetAssemblyInfo.cache

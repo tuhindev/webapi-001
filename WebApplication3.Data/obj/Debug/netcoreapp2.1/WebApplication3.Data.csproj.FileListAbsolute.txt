@@ -1,0 +1,9 @@
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\bin\Debug\netcoreapp2.1\WebApplication3.Data.deps.json
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\bin\Debug\netcoreapp2.1\WebApplication3.Data.dll
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\bin\Debug\netcoreapp2.1\WebApplication3.Data.pdb
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.csprojAssemblyReference.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.csproj.CoreCompileInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.AssemblyInfoInputs.cache
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.AssemblyInfo.cs
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.dll
+C:\Users\tuhin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3.Data\obj\Debug\netcoreapp2.1\WebApplication3.Data.pdb
