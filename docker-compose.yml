@@ -1,0 +1,16 @@
+﻿version: "3.1"
+
+services:
+ apiapp:
+  image: aspnet:t12345
+  depends_on:
+            - sqldb
+  ports:
+   - "80:80"
+ sqldb:
+  image: microsoft/mssql-server-linux
+  environment:
+   SA_PASSWORD: "Your_p@ssword123"
+   ACCEPT_EULA: "Y"
+  ports:
+   - "1433:1433"
