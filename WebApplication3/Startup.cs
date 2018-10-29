@@ -65,9 +65,14 @@ namespace WebApplication3
             //    options.DefaultPolicy = new AuthorizationPolicyBuilder(JwtBearerDefaults.AuthenticationScheme).RequireAuthenticatedUser().Build();
             //});
 
-            services.AddAuthentication()
+            services.AddAuthentication(auth => {
+                auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
     .AddJwtBearer(jwt =>
     {
+        jwt.RequireHttpsMetadata = false;
+        jwt.SaveToken = true;
         jwt.TokenValidationParameters = new TokenValidationParameters
         {
             IssuerSigningKey = signingKey,
